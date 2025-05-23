@@ -1,0 +1,7 @@
+Open it app link-       https://helpful-kringle-3f994c.netlify.app/login
+
+I've implemented a complete User Access Management system with a focus on role-based access control, clean UI, and intuitive user flows. The application uses React context for state management and localStorage for data persistence in this demo version.
+
+The system features three user roles (Employee, Manager, and Admin), each with specific dashboards and permissions. Employees can request access to software applications, Managers can approve or reject these requests, and Admins can create and manage software applications.
+
+The application includes secure authentication, responsive design, and provides visual feedback through status indicators and notifications. The UI is designed with a professional color scheme, consistent spacing, and clear visual hierarchy to ensure the best possible user experience.
